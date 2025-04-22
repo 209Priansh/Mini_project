@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+transformers
+torch
+pydantic
+protobuf==3.20.*
