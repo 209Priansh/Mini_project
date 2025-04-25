@@ -4,3 +4,4 @@ transformers
 torch
 pydantic
 protobuf==3.20.*
+pytest
